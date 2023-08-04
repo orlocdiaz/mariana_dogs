@@ -1,0 +1,38 @@
+.dog {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  width: 312px;
+  height: 312px;
+  padding: 10px;
+  flex-direction: column;
+  color: white;
+}
+
+.images {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 1em;
+  margin-bottom: 10px;
+}
+
+.temperaments {
+  margin: 0;
+  padding: 0;
+}
+
+.nombres {
+  margin: 0;
+  padding: 0;
+}
+
+.temperament2 {
+  margin: 0;
+  padding: 0;
+}
+
+.hs {
+  margin: 0;
+  padding: 0;
+}
